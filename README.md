@@ -1,5 +1,5 @@
 # liri-node-app
-Homework 8 
+Homework 8 .   
 Vanderbilt Trilogy Bootcamp
   
 Technologies used:  Javascript, Node.js, moment.js, Bandsintown API, Spotify API and OMBd API.
