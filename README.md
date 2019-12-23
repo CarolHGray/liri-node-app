@@ -1,5 +1,6 @@
 # liri-node-app
 Vanderbilt Trilogy Bootcamp - Homework 8
+Technologies used:  Javascript, Node.js, Moment.js, Bandsintown API, Spotify API, OMBd API.  
 
 ## LIRI
 
@@ -20,5 +21,27 @@ Here's an example of a search for concerts by guitar artist Peter Frampton:
 
 ![Image of concert-this](https://github.com/CarolHGray/liri-node-app/blob/master/Screenshot%202019-12-23%20at%2001.36.56.png)
 
+## spotify-this-song :notes:
+
+The "spotify-this-song" command uses Spotify API to return data about the selected song.  Each result gives the name of the song and an artist who recorded it, a link to preview the song and an album name. 
+
+This example shows the result of a search for "All I want for Christmas":
+
+![Image of concert-this](https://github.com/CarolHGray/liri-node-app/blob/master/Screenshot%202019-12-23%20at%2001.36.56.png)
+
+## movie-this :film_projector:
+
+The "movie-this" command uses the OMBd API to get information about the movie entered in the search parameter.  It returns the title, release year, IMBd rating, rotten tomato rating, country of production, languages, plot summary, actors and actresses in the film.
+
+Here is a screen shot for a user search of the movie "The Report":
+
+![Image of concert-this](https://github.com/CarolHGray/liri-node-app/blob/master/Screenshot%202019-12-23%20at%2001.36.56.png)
+
+## do-what-it-says
+
+The "do-what-it-says" command reads the random.txt file.  In this application, it defaults to a spotify-this-song data return for the BackStreet Boys song, "I Want It That Way".
+
+![Image of concert-this](https://github.com/CarolHGray/liri-node-app/blob/master/Screenshot%202019-12-23%20at%2001.36.56.png)
 
 
+All results are captured and appended in a log.txt file.  
