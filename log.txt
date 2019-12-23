@@ -1,0 +1,425 @@
+
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=cf0c3301d225408ca6d9af3d8468a589
+
+---------------------------------------------------
+
+Album: The Hits--Chapter OneInvalid Instruction
+
+---------------------------------------------------
+
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/1ad25319a4859f0ace327a313202d5639c31cb10?cid=11bd04b0e835471fae26716bfed42c80
+
+---------------------------------------------------
+
+Song: All I Want for Christmas Is You
+Artist: Mariah Carey
+Album: Merry Christmas
+Invalid Instruction
+
+---------------------------------------------------
+
+Date: 02/06/2020
+Name: Georgia Theatre
+City: Athens
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/07/2020
+Country: GA
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/08/2020
+Name: Hargray Capitol Theatre
+City: Macon
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/14/2020
+Name: The Mill & Mine
+City: Knoxville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/15/2020
+Name: The Mill & Mine
+Country: TN
+City: Knoxville
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/15/2020
+Name: Hangout Music Festival
+City: Gulf Shores
+Country: AL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/11/2020
+Name: Bristol Rhythm & Roots
+City: Bristol
+Country: United States
+Country: TN
+
+---------------------------------------------------
+
+City: Athens
+Name: Georgia Theatre
+Country: United States
+
+---------------------------------------------------
+
+Release Year: 2019
+Country: USA
+Language: English
+Plot: Idealistic Senate staffer Daniel J. Jones, tasked by his boss to lead an investigation into the CIA's post 9/11 Detention and Interrogation Program, uncovers shocking secrets.
+Actors: Adam Driver, Corey Stoll, Evander Duck Jr., Jon Hamm
+IMDB Rating: 7.2
+Title: The Report
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 82%
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=11bd04b0e835471fae26716bfed42c80
+
+---------------------------------------------------
+
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Artist: Backstreet Boys
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/1ad25319a4859f0ace327a313202d5639c31cb10?cid=11bd04b0e835471fae26716bfed42c80
+Album: Merry Christmas
+Artist: Mariah Carey
+
+---------------------------------------------------
+
+Song: All I Want for Christmas Is You
+
+---------------------------------------------------
+
+Date: 05/24/2020
+PeterFrampton
+
+---------------------------------------------------
+
+Name: Usher Hall
+PeterFrampton
+Date: 05/26/2020
+Name: Theatre Royal & Royal Concert Hall
+City: Nottingham
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 05/28/2020
+Name: O2 Apollo
+City: Manchester
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 05/29/2020
+Name: St David's Hall
+City: Cardiff
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 05/31/2020
+Name: Royal Albert Hall
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 06/02/2020
+Name: Philharmonie am Gasteig
+City: München
+City: Edinburgh
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 06/04/2020
+Country: United Kingdom
+City: Berlin
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 06/06/2020
+Name: Alte Oper
+City: Frankfurt Am Main
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 06/07/2020
+Name: Liederhalle
+City: Stuttgart
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 06/09/2020
+Name: L'Olympia Bruno Coquatrix
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 06/11/2020
+Name: Forest National
+City: Bruxelles
+Country: Belgium
+
+---------------------------------------------------
+
+Name: Tempodrom
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Name: Usher Hall
+Country: United Kingdom
+
+---------------------------------------------------
+
+Date: 05/24/2020
+City: Edinburgh
+Name: Theatre Royal & Royal Concert Hall
+
+---------------------------------------------------
+
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 05/28/2020
+Name: O2 Apollo
+City: Manchester
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 05/29/2020
+Name: St David's Hall
+City: Cardiff
+
+---------------------------------------------------
+
+Country: United Kingdom
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 05/31/2020
+Name: Royal Albert Hall
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 06/02/2020
+Name: Philharmonie am Gasteig
+City: München
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 06/04/2020
+Name: Tempodrom
+City: Berlin
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 06/06/2020
+Name: Alte Oper
+City: Frankfurt Am Main
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 06/07/2020
+Name: Liederhalle
+City: Stuttgart
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 06/09/2020
+Name: L'Olympia Bruno Coquatrix
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+PeterFrampton
+Date: 06/11/2020
+PeterFrampton
+City: Bruxelles
+Country: Belgium
+
+---------------------------------------------------
+
+City: Nottingham
+Date: 05/26/2020
+Name: Forest National
+
+---------------------------------------------------
+
+Song: All I Want for Christmas Is You
+
+---------------------------------------------------
+
+Album: Merry Christmas
+Artist: Mariah Carey
+Preview: https://p.scdn.co/mp3-preview/1ad25319a4859f0ace327a313202d5639c31cb10?cid=11bd04b0e835471fae26716bfed42c80
+
+---------------------------------------------------
+
+Release Year: 2019
+Country: USA
+Language: English
+Plot: Idealistic Senate staffer Daniel J. Jones, tasked by his boss to lead an investigation into the CIA's post 9/11 Detention and Interrogation Program, uncovers shocking secrets.
+Actors: Adam Driver, Corey Stoll, Evander Duck Jr., Jon Hamm
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 82%
+Title: The Report
+IMDB Rating: 7.2
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 82%
+Country: USA
+Release Year: 2019
+Plot: Idealistic Senate staffer Daniel J. Jones, tasked by his boss to lead an investigation into the CIA's post 9/11 Detention and Interrogation Program, uncovers shocking secrets.
+Actors: Adam Driver, Corey Stoll, Evander Duck Jr., Jon Hamm
+Language: English
+Title: The Report
+
+---------------------------------------------------
+
+IMDB Rating: 7.2
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=11bd04b0e835471fae26716bfed42c80
+Song: I Want It That Way
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
