@@ -1,6 +1,8 @@
 # liri-node-app
-Vanderbilt Trilogy Bootcamp - Homework 8
-Technologies used:  Javascript, Node.js, Moment.js, Bandsintown API, Spotify API, OMBd API.  
+Homework 8  Vanderbilt Trilogy Bootcamp
+  
+Technologies used:  Javascript, Node.js, moment.js, Bandsintown API, Spotify API and OMBd API.
+
 
 ## LIRI
 
@@ -27,7 +29,7 @@ The "spotify-this-song" command uses Spotify API to return data about the select
 
 This example shows the result of a search for "All I want for Christmas":
 
-![Image of concert-this](https://github.com/CarolHGray/liri-node-app/blob/master/Screenshot%202019-12-23%20at%2001.36.56.png)
+![Image of movie-this](https://github.com/CarolHGray/liri-node-app/blob/master/Screenshot%202019-12-23%20at%2001.39.47.png)
 
 ## movie-this :film_projector:
 
@@ -35,13 +37,13 @@ The "movie-this" command uses the OMBd API to get information about the movie en
 
 Here is a screen shot for a user search of the movie "The Report":
 
-![Image of concert-this](https://github.com/CarolHGray/liri-node-app/blob/master/Screenshot%202019-12-23%20at%2001.36.56.png)
+![Image of movie-this](https://github.com/CarolHGray/liri-node-app/blob/master/Screenshot%202019-12-23%20at%2001.40.15.png)
 
 ## do-what-it-says
 
 The "do-what-it-says" command reads the random.txt file.  In this application, it defaults to a spotify-this-song data return for the BackStreet Boys song, "I Want It That Way".
 
-![Image of concert-this](https://github.com/CarolHGray/liri-node-app/blob/master/Screenshot%202019-12-23%20at%2001.36.56.png)
+![Image of do-what-it-says](https://github.com/CarolHGray/liri-node-app/blob/master/Screenshot%202019-12-23%20at%2001.41.58.png)
 
 
 All results are captured and appended in a log.txt file.  
